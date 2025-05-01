@@ -39,6 +39,7 @@ Linux (Debian/Ubuntu): sudo apt install tesseract-ocr
 macOS: brew install tesseract
 
 Após a instalação no Windows, inclua o caminho manualmente no seu script Python, se necessário:
+
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 ### 5. Execute a aplicação:
