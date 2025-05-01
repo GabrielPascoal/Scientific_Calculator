@@ -25,7 +25,9 @@ cd https://github.com/GabrielPascoal/Scientific_Calculator.git
 
 ### 2. Crie e ative o ambiente virtual:
 python -m venv venv
+
 source venv/bin/activate  # Linux/macOS
+
 venv\Scripts\activate     # Windows
 
 ### 3. Instale as dependências:
