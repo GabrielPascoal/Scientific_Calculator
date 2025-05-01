@@ -19,8 +19,8 @@ Uma aplicação interativa com IA para interpretar expressões aritméticas a pa
 ## 🛠️ Instalação e Configuração
 
 ### 1. Clone o repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/GabrielPascoal/Scientific_Calculator.git
+cd https://github.com/GabrielPascoal/Scientific_Calculator.git
 
 ### 2. Crie e ative o ambiente virtual:
 python -m venv venv
