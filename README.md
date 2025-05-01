@@ -40,7 +40,7 @@ Linux (Debian/Ubuntu): sudo apt install tesseract-ocr
 
 macOS: brew install tesseract
 
-### 4. Autores:
+### 6. Autores:
 Gabriel Guilherme Pascoal
 
 Kaue Borges Nascimento
